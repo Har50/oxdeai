@@ -40,3 +40,6 @@ __pycache__/
 
 # Generated release artifacts and state
 .release-*/
+
+# Local discussion fixtures. The zero-seed generator stays here and is never committed.
+scratch/
